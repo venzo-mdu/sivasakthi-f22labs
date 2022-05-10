@@ -1,0 +1,508 @@
+@font-face {
+    font-family: 'sailecm';
+    src: url('fonts/font\ \ Medium.ttf');
+  }
+  @font-face{
+    font-family: 'sailecl';
+    src: url('fonts/font Light.ttf');
+  }
+  @font-face{
+
+    font-family: 'sailect';
+    src: url('fonts/font Thin.ttf');
+  }
+  @font-face{
+    font-family: 'sailec';
+    src: url('fonts/sailec.ttf');
+  }
+  body {
+    margin: 0;
+    font-family: 'sailec';
+  
+  }
+  
+  
+@media screen and (max-width:1024px) and (min-width: 900px) 
+{
+    
+    .log
+    {
+        height: 92px;
+        width: 7%;
+        margin-left: 31px;
+        margin-top: -12px;
+    }
+
+    .header-right
+    {
+        margin-top: -52px;
+
+margin-left: 433px;
+display: block;
+font-family: 'sailec';
+    }
+
+.ner
+{
+    min-height: 600px;
+    background-image: url(images/bg.png);
+    display: flex;
+    -moz-box-pack: center;
+    justify-content: center;
+    background-size: contain;
+    padding: 20px;
+    width: 93%;
+}
+
+.header3
+{
+    margin-top:-22px;
+}
+.header a 
+{
+    padding-right: 10px;
+    font-family: "sailecm";
+    margin-left: -20px;
+    margin-right: 32px;
+    margin-top:-28px;
+}
+.backtriangle
+{
+    margin-left: -413px;
+    margin-top: -54px;
+    margin-bottom: 16px;
+}
+.ty{
+    line-height: 1.39;
+    font-weight: bold;
+    max-width: 126%;
+    text-align: center;
+    margin-top: 163px
+}
+.top
+{
+    margin-top: 54px;
+    max-width: 75%;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 103px;
+}
+.favi{
+    margin-left: 3px;
+    margin-top: 31px;
+    width: 345px;
+    height: 65px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    background-position: center center;
+    font-family: "sailec";
+}
+.service2
+{
+    margin-left: 14px;
+}
+.service3
+{
+    margin-right: 2%;
+}
+.workon
+{
+    font-family: "sailec";
+    margin-right: -6%;
+    text-align: center;
+    margin-top: 67px;
+    font-size: 28px;
+    margin-left: 59px;
+}
+
+
+/* .work1{
+    width: 21%;
+} */
+.ser
+{
+    width: 100%;
+}
+.beauty
+{
+    width: 103%;
+}
+.boxtrans {
+    min-height: 523px;
+    padding: 60px 90px 60px 220px;
+    background-color: rgb(28, 23, 148);
+    width: 56%;
+    position: relative;
+    margin-left: 153px;
+    color: white;
+    text-align: inherit;
+    border-radius: 6px;
+    margin-top:71px;
+}
+.diamond {
+    font-size: 14px;
+    font-family: "sailecm";
+    font-weight: 600;
+    line-height: 1.57;
+    margin: 15px 0px;
+    color: rgb(255, 255, 255);
+    margin-top:45px;
+}
+.featureproject {
+    font-size: 28px;
+    text-align: center;
+    margin-top: -100px;
+    font-family: "sailec";
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 174px;
+}
+.thistry {
+    margin-left: 33px;
+    min-height: 540px;
+    flex: 1 1 auto;
+    padding: 60px 220px 60px 90px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(23, 191, 236);
+    width: 53%;
+    position: relative;
+    border-radius: 14px;
+    margin-top: -20px;
+}
+.two {
+    width: 51%;
+padding: 111px;
+margin-top: 42px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: rgba(253, 171, 79, 0.15);
+margin-left: 140px;
+height: 12px;
+}
+.two h2 {
+    margin-bottom: 135px;
+margin-left: 1px;
+font-size: 24px;
+font-weight: bold;
+line-height: 1.43;
+text-align: center;
+color: rgb(0, 0, 0);
+}
+.moree {
+   
+    padding: 0px 25px;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    margin-left: 125px;
+margin-top: -82px;
+position: absolute;
+ }
+.tech {
+    text-align: center;
+    font-family: 'sailec';
+    font-size: 28px;
+    color: rgb(39, 39, 39);
+}
+
+.grid-container {
+  
+    width: 65%;
+    height: 500px;
+    margin:0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    background-color: rgb(173, 169, 169, 0.2);
+    grid-gap: 1px;
+    text-align: center;
+    margin-left: 186px;
+    margin-top: 115px;
+}
+.grid-container > div {
+    /* border: 1px solid black; */
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+  }
+  
+.grid-containerrr
+{
+    margin-left: -304px;
+}
+.teamss
+{
+    margin-top: -416px;
+margin-left: -253px;
+width: 139%;
+}
+.hogGhx
+{
+    margin-left: 296px;
+margin-right: 309px;
+}
+.fcbnwg
+{
+    margin-top:10px;
+}
+.hear1 {
+    height: 399px;
+    padding: 100px 0px;
+    background-color: rgb(253, 171, 79);
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.hear2 {
+    width: 100%;
+    max-width: 1440px;
+    display: flex;
+    justify-content: center;
+}
+.hear13 {
+    margin-top: 609px;
+    max-width: 90%;
+    box-shadow: rgb(0 0 0 / 5%) 0px 12px 40px 0px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+}
+.hear14 {
+    margin-left: -35px;
+    margin-top: -561px;
+    padding: 55px 55px 43px;
+    width: 50%;
+}
+.hear15 {
+    margin-left: 147px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 9px;
+    text-align: center;
+    margin-right: -551px;
+    margin-top: -152px;
+    font-family: "sailec";
+}.hear16 {
+    margin-left: 203px;
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 1.57;
+    margin-bottom: 20px;
+    font-family: "sailecm";
+    margin-right: -483px;
+    text-align: center;
+    color: white;
+}
+.hear7 {
+    margin-left: 425px;
+    margin-bottom: 18px;
+    background-color: rgb(249, 249, 249);
+    display: flex;
+    padding: 20px 16px;
+    flex-direction: column;
+    width: 61%;
+}
+.hear17
+{
+    display: none;
+}
+.footer1
+{
+    margin-top: 727px;
+    width: 100%;
+}
+.footer3
+{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+font-size: 20px;
+margin-left: 216px;
+padding-right: 101px;
+}
+.form2 {
+    margin-left: -532px;
+width: 225%;
+display: inline-flex;
+padding: 13px;
+position: relative;
+min-width: 0;
+flex-direction: column;
+vertical-align: top;
+color: gray;
+font-family: "sailecl";
+margin-top: -56px;
+font-weight: bold;
+}
+.quiry {
+    margin-top: 10px;
+    width: 93%;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    background-position: center center;
+    margin: 15px 0px;
+    position: absolute;
+    margin-left: -983px;
+    margin-top: 1060px;
+    font-family: "sailec";
+}
+.form222
+{
+    margin-left: -529px;
+    width: 225%;
+    padding: 13px;
+    min-width: 0;
+    color: gray;
+    font-family: "sailecl";
+    margin-top: -16px;
+    font-weight: bold;
+    margin-right: 200px;
+}
+.sele {
+    border: none;
+    background-color: white;
+    border-bottom: 1px solid gray;
+    margin-top: 43px;
+    margin-left: -548px;
+    font-size: 18px;
+}
+.form22
+{
+    margin-left: -500px;
+    width: 235% !important;
+    margin-top: -10px;
+}
+textarea {
+    font-family: "sailecl";
+    resize: none;
+    margin-top: 30px;
+    border-radius: 5px;
+    border-bottom: 1px solid gray;
+    padding: 25px;
+    width: 906px;
+    margin-left: -546px;
+    height: 113px;
+  
+}
+.worked
+{
+    margin-top: 53px;
+    margin-left: 395px;
+    min-width: 287px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    outline: none;
+    border: none;
+    background-color: rgb(0, 0, 0);
+}
+.graph11
+{
+    width: 1.5%;
+    border-radius: 10px;
+    line-height: 10px;    
+    
+}
+.graph1{
+    list-style: none;
+    line-height: 26px;
+}
+.graph
+{
+    margin-left: -71px;
+    margin-right: 100px;
+    text-align: left;
+    font-family: "sailecm";
+}
+react::after
+{
+    width: 10px;
+}
+.mobile
+{
+    width: 226px;
+top: 50%;
+transform: translateY(-50%);
+left: -30px;
+position: absolute;
+object-fit: contain;
+}
+.ring
+{
+    font-size: 21px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    margin-right: 1px;
+    margin-left: -6px;
+    line-height: 44px;
+}
+.sky1
+{
+    width: 225px;
+    top: 50%;
+    right: -31px;
+    position: absolute;
+    object-fit: contain;
+  }
+  .sky
+  {
+      height: 11%;
+      margin-right: 200px;
+      min-height: 55px;
+      width: 45%;
+      object-fit: contain;
+      margin-left: -47px;
+  }
+  .remeber
+  {
+    opacity: 0.49;
+    font-weight: bold;
+    line-height: 1.25;
+    color: rgb(255, 255, 255);
+    margin-top: -55px;
+    margin-left: 219px;
+    font-weight: bolder;
+    font-family: "sailec";
+    font-size: 14px;
+  }
+  .zero
+  {
+      font-size:21px;
+      margin-left: 50px;
+      margin-right: 100px;
+  }
+  /* .fAJYkYY
+  {
+    display: flex;
+    margin-left: 373px;
+    margin-top: 36px;
+  } */
+  .footer8
+  {
+      font-size: 12px;
+      font-family: "sailecl";
+      color: white;
+  }
+
+}

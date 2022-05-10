@@ -1,0 +1,620 @@
+
+@font-face {
+    font-family: 'sailecm';
+    src: url('fonts/font\ \ Medium.ttf');
+  }
+  @font-face{
+    font-family: 'sailecl';
+    src: url('fonts/font Light.ttf');
+  }
+  @font-face{
+    font-family: 'sailect';
+    src: url('fonts/font Thin.ttf');
+  }
+  @font-face{
+    font-family: 'sailec';
+    src: url('fonts/sailec.ttf');
+  }
+  
+  body {
+    margin: 0;
+    font-family: "sailec";
+  
+  }
+@media only screen and (max-width: 810px)
+{
+   
+    .log
+    {
+        margin-left: 6px;
+        margin-top: -15px;
+    }
+   
+    .header a {
+        float: left;
+        font-family: "sailecm";
+        color: black;
+        text-align: center;
+        padding: 0px;
+        text-decoration: none;
+        font-size: 18px;
+        line-height: 43px;
+        border-radius: 4px;
+      }
+      .header-right
+      {
+        margin-top: -62px;
+        margin-left: 140px;
+        font-family: "sailec";
+        display: block;
+      }
+      .ty
+      {
+        line-height: 1.39;
+        font-size: 36px;
+        font-weight: bold;
+        max-width: 75%;
+        text-align: center;
+        margin-left: 81px;
+        font-family: "sailec";
+      }
+      .backtriangle
+      {
+        width: 10px;
+        margin-left: -459px;
+        margin-top: 18px;
+      }
+      .stu
+      {
+        line-height: 1.39;
+        font-size: 36px;
+        font-weight: bold;
+        max-width: 75%;
+        text-align: center;
+        margin-left: 82px;
+        font-family: "sailec";
+      }
+      .top
+      {
+        line-height: 1.39;
+        font-size: 36px;
+        font-weight: bold;
+        max-width: 75%;
+        text-align: center;
+        margin-left: 82px;
+        font-weight: bold;
+        font-family: "sailec";
+      }
+      .left
+      {
+          margin-top:-72px;
+      }
+      .service2
+      {
+        width: 75%;
+      
+      }
+      .service3
+      {
+          font-size: 36px;
+          margin-right: 10%;
+          margin-left: 7px;
+
+      }
+      .service8
+      {
+          font-size: 20px;
+      }
+      .mobile
+      {
+        width: 200px;
+      }
+      .grid-containerrr
+      {
+        margin-left: -355px;
+      }
+      .teams
+      {
+        min-height: 500px;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        padding: 100px 0px;
+        width: 107%;
+        background-color: white;
+        margin-left: -37px;
+      }
+      .hjk
+      {
+          list-style: none;
+      }
+      .feature15
+      {
+        width: 10px;
+        display: inline-block;
+        height: 10px;
+        border-radius: 50%;
+        margin-right: 10px;
+        background-color: rgb(253, 171, 79);
+      }
+      .feature14
+      {
+        width: 1.25rem !important;
+      }
+      .feature5
+      {
+        font-size: 18px;
+        font-weight: 500;
+        margin-top: 65px;
+        text-align: left;
+        top: 0px;
+      }
+      .feature16
+      {
+        margin-top: -26px;
+        margin-left: 22px;
+        font-weight: 500;
+        font-size: 14px;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: rgb(0, 0, 0);
+        padding: 10px 0px;
+        list-style-type: none;
+      }
+      .feature17
+      {
+        width: 295px;
+        margin-left: -29px;
+      }
+      .feature18
+      {
+        position: absolute;
+        width: 100%;
+        bottom: 0px;
+        height: 588px;
+        object-fit: contain;
+        border-top-left-radius: 164px;
+        border-top-right-radius: 164px;
+        display: block;
+        background-color: rgb(253, 171, 79);
+      }
+      .workon
+      {
+        font-size: 28px;
+        font-weight: bold;
+        margin-top: 67px;
+        text-align:center;
+      }
+      .grid-container
+      {
+        grid-template-columns: repeat(4, 1fr);
+        width: 65%;
+        height: 510px;
+        margin: 30px auto;
+        margin-top: 30px;
+        margin-left: auto;
+        display: grid;
+        background-color: rgb(173, 169, 169, 0.2);
+        grid-gap: 1px;
+        text-align: center;
+        margin-left: 144px;
+        margin-top: 78px;
+      
+       }
+       .grid-container > div 
+       {
+        font-size: 16px;
+        font-weight: bold;
+        font-family: "sailec";
+        
+      }
+      .work1
+      {
+        margin-top:28px;
+      }
+      .worked
+      {
+        margin-left: 283px;
+        margin-top:42px;
+      }
+      .featureproject
+      {
+        font-size: 28px;
+        font-family:"sailec";
+        font-weight: bold;
+      }
+      .boxtrans
+      {
+        margin-top: 80px;
+        margin-left: 76px;
+        width: 49%;
+      }
+      .mobile 
+      {
+        left: -34px;
+        width: 204px;
+        
+      }
+      .fdlogo
+      {
+        width: 114%;
+        margin-left: -26px;
+      }
+      .better
+      {
+        margin-left: 464px;
+        font-size: 14px;
+      }
+      .ring
+      {
+        font-size: 22px;
+        margin-left: -30px;
+        margin-right: 20px;
+        font-weight: bold;
+        width: 518px;
+        font-family: "sailecm";
+      }
+      .diamond
+      {
+        margin-left: -30px;
+        margin-right: 25px;
+        width: 512px;
+      }
+      .react
+      {
+        padding: 7px 0px;
+      }
+      .graph1
+      {
+        margin-left: -31px;
+      }
+      .thistry
+      {
+        margin-left: 36px;
+        width: 53%;
+      }
+      .sky1
+      {
+        width: 200px;
+        right: -30px;
+      }
+      .sky
+      {  
+        width: 54%;
+        margin-left: -39px;
+        margin-top: -22px;
+
+      }
+      .remeber
+      {
+        font-size: 14px;
+        margin-left: 200px;
+      }
+      .zero
+      {
+        font-size: 22px;
+        width: 498px;
+        margin-left: -30px;
+      }
+      .orez
+      {
+        font-size: 14px;
+        margin-left: -25px;
+      }
+      .fri
+      {
+        margin-left: -51px;
+      }
+      .beauty
+      {
+        background-color: rgb(249, 249, 249);
+      }
+      .two
+      {
+        flex-direction: column;
+        width: 81%;
+        margin-left: 37px;
+        margin-top: 10px;
+        height: 152px;
+      }
+      .moree
+      {
+        margin-left: 155px;
+        margin-top: 20px;
+        font-family: "sailecm";
+      }
+      .hogGhx
+      {
+        margin-left: 286px;
+        margin-right: 200px;
+        width: 295px;
+      }
+      .fcbnwg
+      {
+        width: 292px;
+        text-align: center;
+        margin-right: 10px;
+        margin-left: 20px;
+      }
+
+        .teamm2
+        {
+          position: absolute;
+          border-radius: 50%;
+          height: 48px;
+          width: 48px;
+          left: 26%;
+          top: 64px;
+        }
+        .teamm1
+        {
+          position: absolute;
+          border-radius: 50%;
+          height: 49px;
+          width: 49px;
+          left: 16.7%;
+          top: 67px;
+        }
+        .teamm4
+        {
+          position: absolute;
+          border-radius: 50%;
+          height: 58px;
+          width: 59px;
+          left: 21.8%;
+          top: 174px;
+        }
+        .teamm3
+        {
+          display: flex;
+          position: absolute;
+          border-radius: 50%;
+          height: 42px;
+          width: 42px;
+          left: 15%;
+          top: 171px;
+        }
+        .teamm6 
+        {
+          position: absolute;
+          border-radius: 50%;
+          height: 54px;
+          width: 54px;
+          left: 26%;
+          top: 292px;
+        }
+        .teamm5 
+        {
+          position: absolute;
+          border-radius: 50%;
+          height: 60px;
+          width: 60px;
+          left: 19.3%;
+          top: 287px;
+        }
+        .teamm7
+         {
+          position: absolute;
+          border-radius: 50%;
+          height: 44px;
+          width: 44px;
+          right: 26%;
+          top: 78px;
+        }
+        .teamm8 {
+          position: absolute;
+          border-radius: 50%;
+          height: 47px;
+          width: 47px;
+          right: 15.5%;
+          top: 75px;
+        }
+        .teamm9 
+        {
+          position: absolute;
+          border-radius: 50%;
+          height: 59px;
+          width: 59px;
+          right: 24%;
+          top: 187px;
+        }
+        .teamm10 
+        {
+          position: absolute;
+          border-radius: 50%;
+          height: 53px;
+          width: 53px;
+          right: 16.5%;
+          top: 219px;
+        }
+        .teamm11 
+        {
+          position: absolute;
+          border-radius: 50%;
+          height: 50px;
+          width: 50px;
+          right: 26%;
+          top: 308px;
+        }
+        .teamm12 {
+          position: absolute;
+          border-radius: 50%;
+          height: 60px;
+          width: 60px;
+          right: 15%;
+          top: 308px;
+        }
+        .gXvMOk
+        {
+          flex-direction: column;
+        }
+        .hear1
+        {
+          height: 294px;
+        }
+        .hear2 
+        {
+          width: 100%;
+          max-width: 1440px;
+          display: flex;
+          justify-content: center;
+        }
+        .hear7
+        {
+          margin-left: 276px;
+          margin-right: 231px;
+          background: white;
+          width: 267px;
+          height: 105px;
+          width: 246px;
+        }
+        .hear13
+      {
+        max-width: 90%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        background-color: rgb(253, 171, 79);
+      }
+      .hear15
+      {
+        font-size: 24px;
+        margin-top: -128px;
+        margin-left: 177px;
+        margin-right: 20px;
+        width: 345px;
+        text-align: center;
+        color: white;
+      }
+      .hear16
+      {
+        font-size: 12px;
+        width: 582px;
+        text-align: center;
+        margin-left: 128px;
+      }
+        .hear17
+        {
+          display: none;
+        }
+        .mess
+        {
+          width: 10%;
+          margin-top: 5px;
+          margin-bottom: 5px;
+          margin-left: -8px;
+        }
+        .para
+        {
+          margin-left: 17px;
+        }
+        .para1
+        {
+          margin-left: 15px;
+        }
+        .para2
+        {
+          font-size: 14px;
+          font-family: 'sailecm';
+          margin-top: -26px;
+          margin-left: 17px;
+        }
+
+        .para3
+        {
+          font-family: 'sailecm';
+          margin-left: 16px;
+          margin-top: -28px;
+        }
+        .form2
+        {
+          margin-top:430px;
+          margin-left: -481px;
+        }
+        .form3
+        {
+          margin-left: -33px;
+          margin-top: -18px;
+          color: gray;
+          font-family: "sailecl";
+          font-weight: bold;
+        }
+        .form4
+        {
+          width: 780px;
+        }
+        .form222
+        {
+          margin-top: 53px;
+          margin-left: -478px;
+        }
+        .sele
+        {
+          margin-left: -493px;
+          margin-top: 59px;
+        }
+        .quiry
+        {
+          margin-top: 930px;
+          width: 772px;
+          margin-left: -797px;
+          font-size: 14px;
+          font-family: "sailecm";
+          font-weight: bold;
+        }
+        .tpo
+        {
+          margin-top: -462px;
+          margin-left: 70px;
+        }
+        .tactt
+        {
+          margin-top: -10px;
+          font-family: "sailecl";
+          font-weight: bold;
+        }
+        .form444
+        {
+          width: 679px;
+          margin-left: 2px;
+        }
+        textarea
+        {
+          width: 729px;
+          margin-left: -494px;
+          height: 106px;
+          font-family: "sailecl";
+        }
+        .footer1
+        {
+          margin-top: 650px;
+        }
+        .footer2
+        {
+          font-size: 14px;
+          font-family: "sailec";
+          font-weight: bold;
+          margin-top: -4px;
+        }
+        .footer3
+        {
+          margin-left: 51px;
+          font-family: "sailecm";
+          font-weight: 100;
+        }
+        .footer4
+        {
+          margin-top: -15px;
+        }
+        .footer8
+        {
+          font-family: "sailecl";
+          text-align: center;
+          font-size: 12px;
+          color: rgb(255, 255, 255);
+          font-weight: 100
+        }
+}
